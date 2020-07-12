@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Page Title</title>
+ </head>
+ <body>
+       <script> 
+            document.write (" Hello, World!");
+            var myvariable= 5;
+            var words= "this is";
+            var more words = "a sentence";
+            var sentence= words + more words;
+            document.write (sentence);
+            
+            var num1 = 20;
+            var num2 = 50;
+            var answer = num1 + num2 ;
+            document.write(answer);
+            
+            var num1 = 60;
+            var num2 = 40;
+            var answer = num1 - num2 ;
+            document.write(answer);
+            
+            var num1 = 45;
+            var num2 = 100;
+            var answer = num1 * num2 ;
+            document.write(answer);
+            
+            var num1 = 3;
+            var num2 = 10;
+            var answer = num1 / num2 ;
+            document.write(answer);
+       </script> 
+     </body>
+</html>
+     
