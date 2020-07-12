@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Changing the style</h2>
+
+<p id="Change">Hello my name is Aarushi.</p>
+
+<button type="button" onclick="document.getElementById('Change').style.fontSize='40px'">Click Me!</button>
+
+</body>
+</html> 
