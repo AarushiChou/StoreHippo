@@ -6,10 +6,10 @@
   
   <body>
     <h1> Hello World! </h1>
-    <p> This is my first webpage. <br/> I hope you like it </p>
+    <p><i>This is my first paragraph</i><br/> I hope you like it </p>
     <hr/>
-    <p> This this the second paragraph </p>
-    
+    <p> <p><b>This this the second paragraph.</b></p>
+ 
     
     <img src="c:\destopimage_hello" width="50" />
     
