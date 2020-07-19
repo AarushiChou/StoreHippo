@@ -7,7 +7,7 @@
        <script> 
             document.write (" Hello, World!");
             var myvariable= 5;
-            var words= "this is";
+            var word= "this is";
             var more words = "a sentence";
             var sentence= words + more words;
             document.write (sentence);
